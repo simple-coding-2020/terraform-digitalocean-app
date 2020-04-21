@@ -1,0 +1,19 @@
+{
+  "name": "terraform-digitalocean-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-coding-2020/terraform-digitalocean-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simple-coding-2020/terraform-digitalocean-app/issues"
+  },
+  "homepage": "https://github.com/simple-coding-2020/terraform-digitalocean-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
